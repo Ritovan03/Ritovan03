@@ -27,4 +27,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ritovan03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-⭐️ From [your-username](https://github.com/Ritovan03)
+⭐️ From [Ritovan03](https://github.com/Ritovan03)
