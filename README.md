@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 - 📚 Currently studying at IIIT Sricity
-- 💻 Android Developer
+- 📱 Android Developer
 - 🧠 Data Structures and Algorithms enthusiast
 
 ## 🛠 Skills
