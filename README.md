@@ -1,4 +1,4 @@
-<h1 align = "center">Hey there! 👋</h1>
+# Hey there! 👋
 
 I’m **Ritovan Dasgupta**, a passionate tech enthusiast and developer currently pursuing my **B.Tech in Computer Science** at **IIIT Sri City** 🎓. I love diving into **AI, app development, and problem-solving**, always looking for ways to build impactful solutions 🚀.  
 
