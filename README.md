@@ -104,11 +104,5 @@ I thrive on **innovation, collaboration, and creating solutions** that make a di
 ### 🕹️ Game Development
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-# 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritovan03&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Ritovan03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### Idk felt cool:
+### Thought of the day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
