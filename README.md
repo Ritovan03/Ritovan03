@@ -1,17 +1,17 @@
 # Hey there! 👋
 
-I’m **Ritovan Dasgupta**, a passionate tech enthusiast and developer currently pursuing my **B.Tech in Computer Science** at **IIIT Sri City** 🎓. I love diving into **AI, app development, and problem-solving**, always looking for ways to build impactful solutions 🚀.  
+I’m **Ritovan Dasgupta**, a passionate tech enthusiast and developer currently pursuing my **B.Tech in Computer Science** at **IIIT Sri City** 🎓. I love diving into **AI, application development, and problem-solving**, always looking for ways to build impactful solutions.  
 
 ## 🌟 What I Do  
 
 - 💻 **Google Developer Groups (GDG) Member** – Built AI-powered applications and led a Git workshop, helping 200+ students improve collaboration skills.  
-- 🤖 **Epoch - AI/ML Club** – Worked on an AI system that identifies bird species using sound recognition 🐦.  
+- 🤖 **Epoch - AI/ML Club** – Worked on an AI system that identifies bird species using sound recognition.  
 - 🏆 **Hackathon Enthusiast** – Winner of **Hack4Bioheritage Hackathon** and **Top 10 in Accenture Innovation Challenge** (out of 8,000+ teams!).  
 - 📜 **Google GenAI Certified** – Always leveling up my AI and development skills.  
 
 ## 🛠 Tech Stack  
 
-- **Languages**: C++, Kotlin, JavaScript, Dart, TypeScript  
+- **Languages**: C++, Kotlin, JavaScript, Dart, TypeScript 
 - **Tools & Frameworks**: Android Studio, Flutter, Firebase, Jetpack Compose, Node.js  
 
 ## 🚀 What Drives Me  
