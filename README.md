@@ -7,10 +7,6 @@ I’m **Ritovan Dasgupta**, a passionate tech enthusiast and developer currently
 - **Languages**: C++, Kotlin, JavaScript, Dart, TypeScript 
 - **Tools & Frameworks**: Android Studio, Flutter, Firebase, Jetpack Compose, Node.js  
 
-## 🚀 What Drives Me  
-
-I thrive on **innovation, collaboration, and creating solutions** that make a difference. Always up for new challenges and exciting projects—let’s build something awesome together! 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritovandasgupta/) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
